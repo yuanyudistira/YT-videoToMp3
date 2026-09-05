@@ -15,6 +15,6 @@ source .venv/bin/activate
 python -m pip install -U pip
 python -m pip install -U yt-dlp
 
-# 5S. Run
+# 5. Run
 python main.py
 
